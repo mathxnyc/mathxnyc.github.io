@@ -1994,6 +1994,7 @@ input, select, textarea {
 	}
 	.about-image{
 		padding-top: 10px;
+		border-radius: 20px;
 	}
 	.about-text{
 		color: white;
