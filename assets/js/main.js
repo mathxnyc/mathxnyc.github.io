@@ -112,7 +112,6 @@
 				});
 
 		}
-
 	// Scrolly.
 		$('.scrolly').scrolly({
 			speed: 1000,
