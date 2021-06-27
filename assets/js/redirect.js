@@ -1,1 +1,1 @@
-location.replace("https://mathx.educationx.org/")
+//location.replace("https://mathx.educationx.org/")
